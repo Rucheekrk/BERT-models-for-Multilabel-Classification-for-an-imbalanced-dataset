@@ -1,0 +1,3 @@
+This project presents an implementation of three distinct BERT models tailored for a multilabel classification task on a highly imbalanced dataset. To address the class imbalance, class weights have been incorporated to improve model performance across underrepresented labels. The evaluation includes a brief report comparing the three models' performance on the dataset.
+
+However, due to the limited size and imbalances of the dataset, the results appear inadequate and may not fully reflect the potential of the models. This project serves as a representation of applying BERT models for multilabel classification in scenarios where dataset imbalance presents a challenge.
